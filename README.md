@@ -27,8 +27,9 @@
 ```
 
 ## 一些要点
-1. 程序是文件utf-8编码的，在windows上运行会有乱码，请在linux上运行。
+1. 程序文件是utf-8编码的，在windows上运行会有乱码，请在linux上运行。
 2. gcc不支持中文标识符，可以使用clang编译。
+3. 需要c++17支持。
 
 ## Reference
 - [圣嘉然](https://space.bilibili.com/672328094)
